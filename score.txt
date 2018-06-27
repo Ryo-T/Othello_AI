@@ -1,0 +1,2 @@
+ryo,0,1
+takashi,1,0
